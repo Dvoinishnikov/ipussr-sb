@@ -1,5 +1,5 @@
 # ipussr-sb
 <p>ВП СССР — Основы социологии</p>
 <p>Верстаю для чтения на электронной книге. Для себя.<p/>
-<p>Использую <a href="https://sigil-ebook.com">Sigil</a><p/>
+<p>Использую <a href="https://sigil-ebook.com">Sigil</a>.<p/>
 <p>Просматривать в браузере EDGE @ Windows 10.<p/>
